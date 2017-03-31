@@ -1,2 +1,6 @@
 # Google-Apps-Script
- Overview of Google Apps Script  Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with Google Apps like Docs, Sheets, and Forms. There's nothing to install — we give you a code editor right in your browser, and your scripts run on Google's servers.  If you're new to JavaScript, Codecademy offers a great course for beginners. (Note that this course was not developed by and is not associated with Google.)
+ ## Overview of Google Apps Script
+ 
+Google Apps Script is a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications.
+
+
