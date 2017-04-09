@@ -13,7 +13,7 @@ Google Apps Script is a JavaScript cloud scripting language that provides easy w
 The google script add-on allows users to sync (transfering/updating) Google Sheet data to Google Firebase with a touch of a button. 
 
 
-
+Published: 
 
 
 check out(https://www.sohamkamani.com/blog/2017/03/09/sync-data-between-google-sheets-and-firebase/)
