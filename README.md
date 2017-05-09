@@ -15,4 +15,4 @@ The google script add-on allows users to sync (transfering/updating) Google Shee
 Published Status : Drafting Final
 
 
-check out(https://www.sohamkamani.com/blog/2017/03/09/sync-data-between-google-sheets-and-firebase/)
+// check out(https://www.sohamkamani.com/blog/2017/03/09/sync-data-between-google-sheets-and-firebase/)
