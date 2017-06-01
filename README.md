@@ -1,6 +1,6 @@
 
 ![new gsfs icon 3x](https://cloud.githubusercontent.com/assets/19171147/26663710/97a46b38-465a-11e7-88b1-f8eed5bf8304.png)
-
+![new gsfs icon 2x](https://cloud.githubusercontent.com/assets/19171147/26663754/eb075894-465a-11e7-91f2-60d43190c3db.png)
 ### Overview of Google App Script
  
 Google Apps Script is a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications.
