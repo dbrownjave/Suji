@@ -6,7 +6,8 @@
 
 
 
-
+* *
+* *
 ### Overview of GSFS
  
 The GSFS (Google Sheet Firebase Script) allow developers to sync (transfer/update) Google Sheet data to Google Firebase with a touch of a button. Google Sheet is a safe and easy way to store data.
