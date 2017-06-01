@@ -1,4 +1,4 @@
-# GSFS (Google Script)
+# (GSFS) Google Sheet Firebase Script
 ![google firebase gs update 3x](https://cloud.githubusercontent.com/assets/19171147/25772495/43a5ffbc-323a-11e7-9714-0a0abcc1f99b.png)
 
 ### Overview of Google App Script
