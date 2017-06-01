@@ -1,4 +1,4 @@
-# Google Firebase Update (Add on) 
+# Google Sheet Firebase Script (Add on) 
 ![google firebase gs update 3x](https://cloud.githubusercontent.com/assets/19171147/25772495/43a5ffbc-323a-11e7-9714-0a0abcc1f99b.png)
 
 ### Overview of Google Apps Script
