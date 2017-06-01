@@ -16,7 +16,7 @@ The GSFS (Google Sheet Firebase Script) allow developers to sync (transfer/updat
 
 Published Status : Drafting Final
 
-### Developer
+### :wrench: Developer
 
-
+Dorian Brown
 
