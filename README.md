@@ -21,7 +21,7 @@ El GSFS (Google Sheet Firebase Script) permite a los desarrolladores sincronizar
 
 Published Status : Drafting Final
 
-### :wrench: Developer
+### Developer  🖱️ 
 
 Dorian Brown
 
