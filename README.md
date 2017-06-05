@@ -23,5 +23,5 @@ Published Status : Drafting Final
 
 ### Developer  🖱️ 
 
-Dorian Brown
+Dorian Brown (Student-Athlete Ohio University)
 
