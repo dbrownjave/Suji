@@ -23,5 +23,5 @@ Published Status : Drafting Final
 
 ### Developer  🖱️ 
 
-Dorian Brown (Student-Athlete Ohio University)
+Dorian Brown (ZEUSOFCS)
 
