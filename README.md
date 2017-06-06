@@ -18,10 +18,12 @@ El GSFS (Google Sheet Firebase Script) permite a los desarrolladores sincronizar
 
 
 
+### ⭐️ Features
 
-Published Status : Drafting Final
+### :octocat: Installation
 
 ### Developer  🖱️ 
 
 ZEUSOFCS ⚡
 
+# Development Status: [54%]
