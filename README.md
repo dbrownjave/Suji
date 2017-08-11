@@ -25,4 +25,4 @@ El GSFS (Google Sheet Firebase Script) permite a los desarrolladores sincronizar
 
 ZEUSOFCS ⚡
 
-# Development Status: [54%]
+# Development Status: [60%]
