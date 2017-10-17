@@ -21,7 +21,7 @@ Los datos se sincronizan en todos los clientes en tiempo real y permanecen dispo
 
 ### Description
 
-             Gooogle Sheet --> Google Firebase
+             Suji --> Gooogle Sheet --> Firebase Realtime Database
 
 
 
