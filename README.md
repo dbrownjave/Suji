@@ -16,7 +16,7 @@ Suji is Front-End Database partnered with Google Sheet that allow developers & c
 Data is synced across all clients in realtime, and remains available offline. Suji synchronizes data in realtime to Google's Firebase Realtime Back-End Database. When you integrate Firebase to your cross-platform apps with iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data. Suji is a safe and easy way to store, access, sync, modify, and manage a Realtime Database. No Coding Required!
 
 
-             Suji --> Gooogle Sheet --> Firebase Realtime Database 
+             Suji + Gooogle Sheet --> Firebase Realtime Database 
 
 
 
