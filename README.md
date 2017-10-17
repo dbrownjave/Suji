@@ -1,7 +1,7 @@
 
 
-![new gsfs icon 2x](https://cloud.githubusercontent.com/assets/19171147/26663754/eb075894-465a-11e7-91f2-60d43190c3db.png)
 
+![suji logo 2x](https://user-images.githubusercontent.com/19171147/31664921-3b149492-b315-11e7-8177-4b69a4d2cde6.png)
 
 ## Overview of GSFS
 
