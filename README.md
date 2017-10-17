@@ -20,6 +20,6 @@ El GSFS (Google Sheet Firebase Script) permite a los desarrolladores sincronizar
 
 ## Developer  🖱️ 
 
-ZEUSOFCS ⚡
+Dorian Java Brown ⚡
 
 # Development Status: [60%]
