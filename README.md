@@ -1,5 +1,4 @@
-![suji logo github 2x](https://user-images.githubusercontent.com/19171147/31665129-e0a7f836-b315-11e7-9412-889df10b4ec6.png)
-
+![suji logo 2x](https://user-images.githubusercontent.com/19171147/31665321-6b8d096e-b316-11e7-82be-370a98285544.png)
 
 ## Overview of GSFS
 
