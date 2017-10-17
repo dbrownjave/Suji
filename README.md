@@ -5,13 +5,15 @@
 
 ### English 🇺🇸 
 
-Suji is Front-End Database partnered with Google Sheet that allow developers & clients to store and sync data with NoSQL cloud database. Data is synced across all clients in realtime, and remains available offline. Suji synchronizes data in realtime to Google's Firebase Realtime Back-End Database. When you integrate Firebase to your cross-platform apps with iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data with a touch of a button. Suji is a safe and easy way to store, access, sync, modify, and manage a Realtime Database. No Coding Required!
+Suji is Front-End Database partnered with Google Sheet that allow developers & clients to store and sync data with NoSQL cloud database. 
+
+Data is synced across all clients in realtime, and remains available offline. Suji synchronizes data in realtime to Google's Firebase Realtime Back-End Database. When you integrate Firebase to your cross-platform apps with iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data with a touch of a button. Suji is a safe and easy way to store, access, sync, modify, and manage a Realtime Database. No Coding Required!
 
 
 
-[resource]: <> https://www.techopedia.com/definition/6761/database-front-end
+[//]: # https://www.techopedia.com/definition/6761/database-front-end
 
-[resource]: <>  Suji allow users to access, sync, modify, and handle Realtime Databe in Googlesheet with ease! No Codeing Require! Draft Firebase offers two cloud-based, client-accessible database solutions that support realtime data syncing:
+[//]: # Suji allow users to access, sync, modify, and handle Realtime Databe in Googlesheet with ease! No Codeing Require! Draft Firebase offers two cloud-based, client-accessible database solutions that support realtime data syncing:
 
 
 ### Español 🇪🇸
