@@ -15,7 +15,9 @@ https://www.techopedia.com/definition/6761/database-front-end [//]: # Suji allow
 
 ### Español 🇪🇸
 
-(progress...)
+¡Suji es la base de datos de Front-End asociada con Google Sheet que permite a los desarrolladores y clientes almacenar y sincronizar datos con la base de datos en la nube de NoSQL!
+
+Los datos se sincronizan en todos los clientes en tiempo real y permanecen disponibles sin conexión. Suji sincroniza datos en tiempo real con la base de datos back-end en tiempo real de Firebase de Google. Cuando integra Firebase a sus aplicaciones multiplataforma con SDK para iOS, Android y JavaScript, todos sus clientes comparten una instancia de la base de datos en tiempo real y reciben automáticamente las actualizaciones con los datos más recientes. Suji es una forma segura y fácil de almacenar, acceder, sincronizar, modificar y administrar una base de datos en tiempo real. ¡No se requiere codificación!
 
 ### Description
 
