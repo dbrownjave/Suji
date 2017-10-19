@@ -8,7 +8,7 @@
 Suji is a Front-End Database partnered with Google Sheet that allow developers & clients to store and sync data with NoSQL cloud database! 
 
 ### Español 🇪🇸
-
+sadc
 ¡Suji es la base de datos de Front-End asociada con Google Sheet que permite a los desarrolladores y clientes almacenar y sincronizar datos con la base de datos en la nube de NoSQL!
 
 ## Description 
