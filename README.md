@@ -20,11 +20,10 @@ Data is synced across all clients in realtime, and remains available offline. Su
 
 
 
+| Feature | Description |
+| --- | --- |
+| Realtime | Suji uses Firebase Realtime Database to data synchronize—every time data is updated, any connected device receives that update within milliseconds. Provide collaborative and immersive experiences without thinking about networking code. |
 
-
-
-
-## Installation
 
 ## Developer  🖱️ 
 
