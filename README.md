@@ -29,7 +29,7 @@ Data is synced across all clients in realtime, and remains available offline. Su
 
 Dorian Java Brown ⚡
 
-# Development Status: [60%]
+##### Development Status [30%] 
 
 
 
