@@ -5,11 +5,11 @@
 
 ### English 🇺🇸 
 
-Suji is a Front-End Database partnered with Google Sheet that allow developers & clients to store and sync data with NoSQL cloud database! 
+Suji is a Front-End Database partnered with Google Firebase that allow developers & clients to store and sync data with NoSQL cloud database! 
 
 ### Español 🇪🇸
 
-¡Suji es la base de datos de Front-End asociada con Google Sheet que permite a los desarrolladores y clientes almacenar y sincronizar datos con la base de datos en la nube de NoSQL!
+¡Suji es la base de datos de Front-End asociada con Google Firebase que permite a los desarrolladores y clientes almacenar y sincronizar datos con la base de datos en la nube de NoSQL!
 
 ## Description 
 
@@ -29,7 +29,7 @@ Data is synced across all clients in realtime, and remains available offline. Su
 
 Dorian Java Brown ⚡
 
-##### Development Status [30%] 
+##### Development Status [40%] 
 
 
 
