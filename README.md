@@ -41,7 +41,7 @@ information about Suji.
  Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me)  
 
 
-###### Development Status [80%] 
+###### Development Status: [80%] 
 
 <!--
 
