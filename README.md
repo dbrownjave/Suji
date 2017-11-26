@@ -45,11 +45,10 @@ information about Suji.
 **[MIT](LICENSE)**
 
 
-##### Development Status [80%] 
-
-
+###### Development Status [80%] 
 
 <!--
+
 
 ##  Issues
 First, please search the [open issues](https://github.com/ZEUSOFCS/Suji/issues?q=is%3Aopen)
