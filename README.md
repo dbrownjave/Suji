@@ -1,6 +1,6 @@
 ![suji logo github 2x](https://user-images.githubusercontent.com/19171147/32693008-f0caa45e-c6f0-11e7-9039-71dbcbc5de6e.png)
 
-## Overview of Suji
+## Overview of Suji (Comming Soon!)
 ###### Suji combines the power of Google's Firebase Realtime Database with an intuitive and beautiful interface.
 
 ### English 🇺🇸 
