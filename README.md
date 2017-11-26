@@ -40,10 +40,6 @@ information about Suji.
 ## Credits
  Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me)  
 
-## License
-
-**[MIT](LICENSE)**
-
 
 ###### Development Status [80%] 
 
