@@ -38,7 +38,7 @@ information about Suji.
 
 
 ## Credits
- Code made with lots of ♥️ by [Dorian Javä Brown](www.dorianbrown.me)  
+ Code made with lots of ♥️ by [Dorian Javä Brown](https://www.dorianbrown.me)  
 
 
 ###### Development Status: [83%] 
